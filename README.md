@@ -7,7 +7,7 @@
 
  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex003/index.html">Executar o exercício 003</a>
 
- <a href="https://lucasgomesd.github.io/html-css/exercicios/ex004/index.html">Executar o exercício 004</a>
+ <a href="https://github.com/LucasGomesD/html-css/blob/main/exercicios/ex004/index.html">Executar o exercício 004</a>
 
  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex006/index.html">Executar o exercício 006</a>
 
@@ -20,3 +20,7 @@
  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex010/index.html">Executar o exercício 010</a>
 
  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex011/index.html">Executar o exercício 011</a>
+
+ <a href="https://lucasgomesd.github.io/html-css/exercicios/ex026/index.html">Executar o exercício 026</a>
+
+
