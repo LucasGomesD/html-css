@@ -21,6 +21,9 @@
 
  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex011/index.html">Executar o exercício 011</a>
 
- <a href="https://lucasgomesd.github.io/html-css/exercicios/ex026/mq002/index.html">Executar o exercício 026</a>
+ <a href="https://lucasgomesd.github.io/html-css/exercicios/ex026/mq002/index.html">Executar o exercício 026. Mq002</a>
+
+  <a href="https://lucasgomesd.github.io/html-css/exercicios/ex026/mq005/index.html">Executar o exercício 026. Mq005</a>
+
 
 
